@@ -1,0 +1,6 @@
+E:\Projects\Godot\SimpleShooter\.mono\temp\bin\Debug\SimpleShooter.dll
+E:\Projects\Godot\SimpleShooter\.mono\temp\bin\Debug\SimpleShooter.pdb
+E:\Projects\Godot\SimpleShooter\.mono\temp\obj\Debug\SimpleShooter.csprojResolveAssemblyReference.cache
+E:\Projects\Godot\SimpleShooter\.mono\temp\obj\Debug\SimpleShooter.csproj.CoreCompileInputs.cache
+E:\Projects\Godot\SimpleShooter\.mono\temp\obj\Debug\SimpleShooter.dll
+E:\Projects\Godot\SimpleShooter\.mono\temp\obj\Debug\SimpleShooter.pdb

@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Game/Scripts/Ship.cs" type="Script" id=1]
+[ext_resource path="res://Game/Textures/playerShip2_blue.png" type="Texture" id=2]
+
+[node name="ShipRoot" type="Node2D" index="0"]
+
+script = ExtResource( 1 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Ship" type="Node2D" parent="." index="0"]
+
+_sections_unfolded = [ "Transform" ]
+
+[node name="Sprite" type="Sprite" parent="Ship" index="0"]
+
+position = Vector2( 0, -16.581 )
+texture = ExtResource( 2 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="Muzzle" type="Position2D" parent="Ship" index="1"]
+
+position = Vector2( 0, -55 )
+_sections_unfolded = [ "Transform" ]
+
+

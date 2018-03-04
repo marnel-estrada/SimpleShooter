@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleShooter", "SimpleShooter.csproj", "{068296BF-6DC6-43F3-8430-0054AA7D79EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{068296BF-6DC6-43F3-8430-0054AA7D79EB}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
