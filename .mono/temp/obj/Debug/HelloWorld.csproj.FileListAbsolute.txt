@@ -1,0 +1,6 @@
+E:\Projects\Godot\HelloWorld\.mono\temp\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Projects\Godot\HelloWorld\.mono\temp\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Projects\Godot\HelloWorld\.mono\temp\bin\Debug\HelloWorld.dll
+E:\Projects\Godot\HelloWorld\.mono\temp\bin\Debug\HelloWorld.pdb
+E:\Projects\Godot\HelloWorld\.mono\temp\obj\Debug\HelloWorld.dll
+E:\Projects\Godot\HelloWorld\.mono\temp\obj\Debug\HelloWorld.pdb
