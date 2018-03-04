@@ -7,3 +7,5 @@ To run the game:
 * Press the play button or press F5.
 
 There are still missing mechanics like there's no scoring and game over state. I just wanted to share this project for those who are planning to use Godot and see what a basic C# game looks like.
+
+Thanks to https://kenney.nl/assets for the assets used in this game.
